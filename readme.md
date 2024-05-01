@@ -1,4 +1,4 @@
-# __Snake Game__
+<h1 align="center"> Snake Game </h1>
 This is a simple Snake Game developed using JavaScript.
 
 ## __How to Play__
@@ -15,4 +15,5 @@ This is a simple Snake Game developed using JavaScript.
 * Score tracking: Keep track of your score as you play.
 * Play again option: Easily restart the game with the "Play Again" button.
 
-
+## Deployed Site
+You can visit the deployed site [here](snake-game-opal-five.vercel.app).
