@@ -16,4 +16,4 @@ This is a simple Snake Game developed using JavaScript.
 * Play again option: Easily restart the game with the "Play Again" button.
 
 ## Deployed Site
-You can visit the deployed site [here](snake-game-opal-five.vercel.app).
+You can visit the deployed site [here](https://snake-game-opal-five.vercel.app/).
